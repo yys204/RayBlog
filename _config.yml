@@ -1,0 +1,4 @@
+type: "git"
+repo: https://gitee.com/ni-tiange/blog-2024.git #替换成你自己仓库的HTTP URL地址
+branch: master
+theme: Butterfly
