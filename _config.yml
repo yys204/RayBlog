@@ -1,4 +1,9 @@
+title: RayTang博客
+author: RayTang
 type: "git"
 repo: https://github.com/yys204/RayBlog.git #替换成你自己仓库的HTTP URL地址
 branch: gh-pages
-theme: Butterfly
+# Extensions
+## Plugins: https://hexo.io/plugins/
+## Themes: https://hexo.io/themes/
+theme: reimu
